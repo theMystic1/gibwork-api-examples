@@ -8,7 +8,7 @@ function Logo() {
         <Image src={logo} fill alt="Logo icon" className="rounded-md" />
       </div>
 
-      <h1 className="text-2xl  md:text-4xl font-bold tracking-tight">
+      <h1 className="text-2xl overflow-hidden md:text-4xl font-bold tracking-tight">
         gibwork
       </h1>
     </span>
